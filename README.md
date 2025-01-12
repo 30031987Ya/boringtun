@@ -46,7 +46,7 @@ It is also possible to use with [wg-quick](https://git.zx2c4.com/WireGuard/about
 
 `sudo WG_QUICK_USERSPACE_IMPLEMENTATION=boringtun-cli WG_SUDO=1 wg-quick up CONFIGURATION`
 
-### Testing
+### Tasting
 
 Testing this project has a few requirements:
 
